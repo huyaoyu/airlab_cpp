@@ -1,0 +1,16 @@
+*/builddir/
+*/build/
+*/output/
+*/Output/
+*.dat
+*.jpg
+*.png
+*.tif
+*.pyc
+*.o
+*/.cproject
+*/.project
+*/.settings/
+.metadata/
+xiApiPlusOpenCV/xiApiPlusOcvExample
+
